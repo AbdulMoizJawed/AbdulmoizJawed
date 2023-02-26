@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--XAiWRSsE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rukvu3dz6ztgqrlxsq8.png)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--XAiWRSsE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rukvu3dz6ztgqrlxsq8.png)
 <h1 align="center">Hi 👋, I'm ABDUL MOIZ</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
